@@ -1,9 +1,0 @@
-python
-
-chambre
-
-telephone
-
-Courge
-
-Tomate
