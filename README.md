@@ -1,5 +1,5 @@
 # python-code
-Some python codes I created
+Some python programs I created
 
-Hangman Game: HangmanGame.py FichierScore.txt dico.txt
-to have a bar histogram and a pie chart of the colors of a picture: dataMining.py flower.jpg
+<br/>Hangman Game: HangmanGame.py FichierScore.txt dico.txt
+<br/>to have a bar histogram and a pie chart of the colors of a picture: dataMining.py flower.jpg
