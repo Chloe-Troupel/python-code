@@ -21,7 +21,7 @@ print ("The time without processus : ",end1-begin1, "The sum is ", Sum)
 
 #with processus
 
-nbproc=1#int(sys.argv[1])
+nbproc=int(sys.argv[1])
 
 def tableau(arr, nbproc,i):
         d=math.ceil(i*longT)
