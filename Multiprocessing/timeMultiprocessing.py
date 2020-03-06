@@ -17,7 +17,7 @@ begin1=time.time()
 Sum=sum(arr)
 end1=time.time()
 
-print ("The time without processus : ",end1-begin1, "The sum is ", Sum)
+print ("The time without process : ",end1-begin1, "The sum is ", Sum)
 
 #with processus
 
@@ -47,6 +47,6 @@ for p in liste:
     p.join()
 end2=time.time()
 
-print("The time with processus : ",end2-begin2, "The sum is ", Sum.value)
+print("The time with process : ",end2-begin2, "The sum is ", Sum.value)
 
 assert(Sum.value==sum(arr))
